@@ -1,0 +1,62 @@
+
+.cuerpo{
+    background: #ffdf85;
+}
+.formularioModificar{
+    background-color: #22b7b7;
+    border-radius: 10px;
+    border: none;
+    width: 326px;
+    height: 569px;
+    margin: 18px;
+    float: left;
+
+}
+.formularioAgregar{
+    border-radius: 10px;
+    background-color: #22b7b7;
+    border: none;
+    width: 326px;
+    height: 639px;
+    margin: 18px;
+    float: left;
+
+}
+.textoFormulario{
+    margin: 80px;
+    font-size: 24px;
+    font-variant: small-caps;
+    font-weight: bold;
+}
+.inputFormularioA{
+    margin: 10px;
+    width: 258px;
+    border-radius: 5px;
+    border:none;
+}
+.botonAgregar{
+    font-size: 20px;
+    border-radius: 5px;
+    border: none;
+    background: #13b626; 
+}
+.contenedorConsulta{
+    margin: 90px  !important;
+}
+.tituloTabla{
+    background-color: #ff455e;
+}
+.datosTabla{
+    background-color:#bad9ff;
+}
+.inputFormularioM{
+    background-color: #bad9ff;
+    border: 0;
+}
+.botonModifiar{
+    font-size: 14px;
+    border-radius: 5px;
+    border: none;
+    background: #22b7b7;
+
+}
